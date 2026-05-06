@@ -44,10 +44,6 @@ Git | GitHub | VS Code | Postman
 
 ---
 
-## 📊 GitHub Stats
-
----
-
 ## 📫 Connect With Me
 
 * 📧 Email: [pavitramindu999@gmail.com](mailto:pavitramindu999@gmail.com)
